@@ -3,7 +3,7 @@ A simple tool to keep your pdf document safe and reduce the chances of getting r
 
 ![image](https://user-images.githubusercontent.com/47776459/190480205-dfb22920-1f87-4d26-b9b5-9f1b1551d8a2.png)
 
-### It automates the process of securing the pdf by taking pdf/docx file as an input, convert it into images, apply watermark,logo and an encryption.
+It automates the process of securing the pdf by taking pdf/docx file as an input, convert it into images, apply watermark,logo and an encryption.
 
 
 
