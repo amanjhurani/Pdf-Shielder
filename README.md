@@ -10,3 +10,11 @@ A simple tool to keep your pdf document safe and reduce the chances of getting r
 ## Tool
 <img src="https://user-images.githubusercontent.com/47776459/190480719-85bb967e-135b-439a-b4ef-d16e0ef34f73.png" alt="drawing" width="200"/>
 <img src="https://user-images.githubusercontent.com/47776459/190481041-de16c1f3-3388-4e5b-9309-280997ebe1be.png" alt="drawing" width="200"/>
+
+
+
+```
+Download the poppler for windows and keep the path like this to it's bin folder C:\Program Files\poppler-22.04.0\Library\bin
+pip install -r requirements.txt
+py main.py
+```
